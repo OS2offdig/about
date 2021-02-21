@@ -9,3 +9,9 @@ OS2 is a Danish association that help our members build, use and collaborate on 
 OS2 is organized around a Board, a Secretariat and Product and Project specific communities.
 
 ![](https://i.imgur.com/jdeKd4W.png)
+
+# Open Source products in OS2
+
+Several Open Source products are organized in OS2. They all have in common that they solve needs for a typical Danish municipality or other public authority. Even that the products are made in Danish context we believe several of the solutions can be used in other countries as well.
+
+[Read more about projects and products](https://) and see a list of what is availabl.
