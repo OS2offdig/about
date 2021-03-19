@@ -19,6 +19,6 @@ Read more about projects and products on our website [os2.eu](https://os2.eu). (
 * For a list of all Products published and organised in OS2 - check out [https://os2.eu/products](https://os2.eu/products).
 * To check out ongoing projects – check out [https://os2.eu/projects](https://os2.eu/projects).
 
-> ℹ️ **What is a product and a project?**
+> ℹ️ **What is a product and a project?**  
 > A **product** is a solution/codebase that is currently used in production environments.  
 > A **project** is a solution/codebase that is in development and only deployed in test environments.
