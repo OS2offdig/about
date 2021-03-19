@@ -14,4 +14,14 @@ OS2 is organized around a Board, a Secretariat and Product and Project specific 
 
 Several Open Source products are organized in OS2. They all have in common that they solve needs for a typical Danish municipality or other public authority. Even that the products are made in Danish context we believe several of the solutions can be used in other countries as well.
 
-[Read more about projects and products](https://os2.eu) and see a list of what is available.
+Read more about projects and products on our website [os2.eu](https://os2.eu). (Disclaimer: information on the website is primarly in Danish).
+
+* For a list of all Products published and organised in OS2 - check out [https://os2.eu/products](https://os2.eu/products).
+* To check out ongoing projects – check out [https://os2.eu/projects](https://os2.eu/projects).
+
+> ℹ️ Whai is a product and a project?
+> 
+> A **product** is a solution/codebase that is currently used in production environments.
+>
+> A **project** is a solution/codebase that is in development and only deployed in test environments.
+
