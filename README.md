@@ -1,3 +1,12 @@
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+.markdown-body .callout[theme="ℹ️"] {
+  --background: #c54245;
+  --border: #ffffff6b;
+  --text: #f5fffa;
+}
+</style>")
+
 # OS2 – Offentligt Digitaliseringsfællesskab on Github
 
 Let's begin with explaining the name "OS2 – Offentligt Digitaliseringsfællesskab" – It's Danish and translates into OS2 – Public Digitalization Network.
@@ -19,9 +28,8 @@ Read more about projects and products on our website [os2.eu](https://os2.eu). (
 * For a list of all Products published and organised in OS2 - check out [https://os2.eu/products](https://os2.eu/products).
 * To check out ongoing projects – check out [https://os2.eu/projects](https://os2.eu/projects).
 
-> ℹ️ Whai is a product and a project?
+> ℹ️ What is a product and a project?
 > 
 > A **product** is a solution/codebase that is currently used in production environments.
->
 > A **project** is a solution/codebase that is in development and only deployed in test environments.
 
