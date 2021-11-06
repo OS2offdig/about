@@ -4,7 +4,7 @@
 
 * § 1 [Fællesskabets navn og organisation](#-1-fællesskabets-navn-og-organisation)
 * § 2 [Historien](#-2-historien)
-* § 3 [Fællesskabets filosofi, fællesskab, licensformer og formål](#-3-fællesskabets-filosofi-fællesskab-licensformer-og-formål)
+* § 3 [Fællesskabets filosofi, licensformer og formål](#-3-fællesskabets-filosofi-licensformer-og-formål)
 * § 4 [Medlemskab](#-4-medlemskab)
 * § 5 [Kontingent for medlemskab af offentlige myndigheder](#-5-kontingent-for-medlemskab-af-offentlige-myndigheder)
 * § 6 [Fællesskabets ledelse](#-6-fællesskabets-ledelse)
@@ -13,7 +13,7 @@
 * § 9 [Vedtægtsændringer og opløsning](#-9-vedtægtsændringer-og-opløsning)
 * § 10 [Produkter, projekter og grupper i OS2](#-10-produkter-projekter-og-grupper-i-OS2)
 * § 11 [Sekretariat](#-11-sekretariat)
-* § 12 [Platforme, videndeling og medlemsinformation](#-13-platforme-videndeling-og-medlemsinformation)
+* § 12 [Platforme, videndeling og medlemsinformation](#-12-platforme-videndeling-og-medlemsinformation)
  
 ## § 1 Fællesskabets navn og organisation
 
