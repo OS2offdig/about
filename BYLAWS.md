@@ -1,31 +1,19 @@
 # Vedtægter for OS2 - Offentligt Digitaliseringsfællesskab
 
-§ 1 [Fællesskabets navn og organisation](#-1-fællesskabets-navn-og-organisation)
+## Index
 
-§ 2 Historien
-
-§ 3 Fællesskabets filosofi, fællesskab, licensformer og formål
-
-§ 4 Medlemskab
-
-§ 5 Kontingent for medlemskab af offentlige myndigheder
-
-§ 6 Fællesskabets ledelse
-
-§ 7 Ordinær generalforsamling
-
-§ 8 Ekstraordinær generalforsamling
-
-§ 9 Vedtægtsændringer og opløsning
-
-§ 10 Partnere og teams
-
-§ 11 Projekter
-
-§ 12 Administratorer
-
-§ 13 Platforme, videndeling og medlemsinformation
-
+* § 1 [Fællesskabets navn og organisation](#-1-fællesskabets-navn-og-organisation)
+* § 2 [Historien](#-2-historien)
+* § 3 [Fællesskabets filosofi, fællesskab, licensformer og formål](#-3-fællesskabets-filosofi-fællesskab-licensformer-og-formål)
+* § 4 [Medlemskab](#-4-medlemskab)
+* § 5 [Kontingent for medlemskab af offentlige myndigheder](#-5-kontingent-for-medlemskab-af-offentlige-myndigheder)
+* § 6 [Fællesskabets ledelse](#-6-fællesskabets-ledelse)
+* § 7 [Ordinær generalforsamling](#-7-ordinær-generalforsamling)
+* § 8 [Ekstraordinær generalforsamling](#-8-ekstraordinær-generalforsamling)
+* § 9 [Vedtægtsændringer og opløsning](#-9-vedtægtsændringer-og-opløsning)
+* § 10 [Produkter, projekter og grupper i OS2](#-10-produkter-projekter-og-grupper-i-OS2)
+* § 11 [Sekretariat](#-11-sekretariat)
+* § 12 [Platforme, videndeling og medlemsinformation](#-13-platforme-videndeling-og-medlemsinformation)
  
 ## § 1 Fællesskabets navn og organisation
 
@@ -214,11 +202,11 @@ Styring af produkter og projekter i fællesskabet skal til enhver tid ske i henh
 
 Nedsættelse af grupper og udvalg i fællesskabet skal til enhver tid overholde OS2s governancemodel som beskrevet på fællesskabet hjemmeside.
 
-## § 12 Administratorer
+## § 11 Sekretariat
 
-Administratorer sikrer, at der sker fremdrift i fællesskabet, teams, projekter og udfører repræsentative og markedsførende aktiviteter. Administratorer udpeges af bestyrelsen.
+Sekretariatet sikrer, at der sker fremdrift i fællesskabet, grupper, produkter, projekter og udfører repræsentative og markedsførings aktiviteter. Sekretariatet udpeges af bestyrelsen.
 
-## § 13 Platforme, videndeling og medlemsinformation
+## § 12 Platforme, videndeling og medlemsinformation
 
 **Stk. 1**
 
@@ -236,5 +224,6 @@ Alle fællesskabets aktiviteter, inspirationsforløb og dokumentation kan findes
 
 **LOG:**
 
+* *Opdateret 6. november 2021 flyttet til Github, index tilrettet og administratorer omdøbt til den korrekte betegnelse: Sekretariat.*
 * *Opdateret 6. maj 2019 jf. beslutninger på OS2s generalforsamling.*
 * *Opdateret 3. maj 2016 jf. beslutninger på OS2s generalforsamling.*
