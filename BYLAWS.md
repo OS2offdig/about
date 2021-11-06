@@ -1,6 +1,6 @@
 # Vedtægter for OS2 - Offentligt Digitaliseringsfællesskab
 
-§ 1 Fællesskabets navn og organisation
+§ 1 [Fællesskabets navn og organisation](#-1-fællesskabets-navn-og-organisation)
 
 § 2 Historien
 
