@@ -62,7 +62,7 @@ Foreningen OS2 kan ikke udbetale højere udbytte, end hvad der svarer til almind
 
 **Stk. 1**
 
-Fællesskabet er åbent for alle offentlige myndigheder, der kan tilslutte sig fællesskabets formål og Code og Conduct. Offentlige myndigheder der har underskrevet en partnerskabsaftale er medlemmer.
+Fællesskabet er åbent for alle offentlige myndigheder, der kan tilslutte sig fællesskabets formål og Code of Conduct. Offentlige myndigheder der har underskrevet en partnerskabsaftale er medlemmer.
 
 **Stk. 2**
 
