@@ -4,7 +4,7 @@
 
 Da OS2 blev etableret hentede vi meget inspiration fra TING.concept som stod bag b.la. DDB CMS under Danskernes Digitale Bibliotek. Ting har i dag erklæret "mission complete" og nedlagt sig selv.
 
-OS2 er stiftet i 2012 af Syddjurs, Ballerup, Ishøj, Sønderborg og Københavns Kommuner.
+OS2 er stiftet i 2012 af Syddjurs, Ballerup, Ishøj, Sønderborg og Københavns Kommuner. OS2 - Open source og offentligt samarbejde (OS x 2) - begyndte som offentligt hjemmesidefællesskab og formålet var centreret omkring samarbejde om open source platformen Drupal. OS2 udviklede sig hurtigt til samarbejde om andre teknologier og formål. Derfor skiftede fællesskabet i 2013 navn til det vi kender i dag: OS2 - Offentligt digitaliseringsfællesskab. Formålet er det samme, nemlig samarbejde om udvikling af behovsdrevne digital løsninger med afsæt i open source.
 
 ## Deltagelse
 
@@ -12,12 +12,12 @@ OS2-fællesskabet er et koncept, der er udviklet i det offentlige i Danmark, og 
 
 Code of Conduct (CoC) er et sæt anbefalinger for aktiv deltagelse i OS2-fællesskabet. CoC afspejler ønsket om, at alle resultater kan deles og at der ønskes så stor en involvering som muligt fra institutioner, enkeltpersoner og firmaer.
 
-Som deltager skal du have fokus på, at alle bidrag er værdifulde. Uden bidrag bliver der ingen udvikling, og udvikling af resultater er bærende for hele konceptet bag OS2. Derfor er enhver form for deltagelse velkommen. OS2 er et fællesskab som står oven på Open Source som forretningsmodel og metode. Deltagelse fordrer altså at man arbejdet åbent og transparent.
+Som deltager skal du have fokus på, at alle bidrag er værdifulde. Uden bidrag bliver der ingen udvikling, og udvikling af resultater er bærende for hele konceptet bag OS2. Derfor er enhver form for deltagelse velkommen. OS2 er et fællesskab som står oven på Open Source som samarbejdsform og metode. Deltagelse fordrer altså at man arbejdet åbent og transparent.
 
 
 ## Vær omhyggelig!
 
-Resultater som offentliggøres i OS2 anvendes af andre. Tekniske og andre beslutninger har effekt på andre kollegaer, samarbejdspartnere og slutbrugere - hvilket du skal tage med i dine overvejelser, når du tager beslutninger. OS2 har mange brugere, og selvom det måske ikke umiddelbart er tydeligt i situationen, så vil bidrag til OS2 have en effekt på andres arbejde. Dette gælder f.eks. i forhold til ændringer i kode, infrastruktur, politikker, dokumentation og tilsvarende. Programændringer op til release kan negativt påvirke andres arbejde.
+Resultater som offentliggøres i OS2 anvendes af andre. Tekniske og andre beslutninger har effekt på andre kollegaer, samarbejdspartnere og slutbrugere - hvilket du skal tage med i dine overvejelser, når du tager beslutninger. OS2 har mange brugere, og selvom det måske ikke umiddelbart er tydeligt i situationen, så vil bidrag til OS2 have en effekt på andres arbejde. Dette gælder f.eks. i forhold til ændringer i kode, infrastruktur, politikker, dokumentation og tilsvarende. Programændringer op til release kan påvirke andres arbejde.
 
 ## Vær respektfuld!
 
@@ -27,15 +27,15 @@ Samarbejde og deling er helt afgørende for OS2 og i relation til det øvrige sa
 
 Samarbejdet omfatter organisationer, enkeltpersoner, arbejdsgrupper, produkter og projekter inden for og uden for fællesskabet. Sådant samarbejde reducerer redundans og forbedrer kvaliteten af vort arbejde. Vi skal altid være åbne for samarbejde både internt og eksternt.
 
-Hvis man af den ene eller anden grund forlader et projekt eller en gruppe er det vigtigt, at man efterlader sine ansvar, så andre kan overtage dem. Vær også omhyggelig med at informere interessenter i fællesskabet.
+Hvis man af den ene eller anden grund forlader en arbejdsgruppe, et produkt- eller projektsamarbejde er det vigtigt, at man efterlader sine ansvar, så andre kan overtage dem. Vær også omhyggelig med at informere interessenter i fællesskabet.
 
 ## Vær åben!
 
-Vort arbejde skal udføres transparent, og det er af afgørende betydning, at omgivelserne kan få indsigt i og indflydelse på vort arbejde. Det er en afgørende succesparameter, at vi opfattes som troværdige, hvorfor vi skal være åbne om ændringer i roadmaps, planer og projektresultater. Vi ønsker at tiltrække andre troværdige deltagere, hvorfor vi selv skal skabe transparens. Derfor bruger vi i OS2 det fælles sekretariat og den fælles værktøjskasse bestående af bl.a. hjemmesiden os2.eu, Github m.fl.
+Vort arbejde skal udføres transparent, og det er af afgørende betydning, at omgivelserne kan få indsigt i og indflydelse på vort arbejde. Det er en afgørende succesparameter, at vi opfattes som troværdige, hvorfor vi skal være åbne om ændringer i roadmaps, planer og projektresultater. Vi ønsker at tiltrække andre troværdige deltagere, hvorfor vi selv skal skabe transparens. Derfor bruger vi i OS2 det fælles sekretariat og den fælles værktøjskasse bestående af bl.a. hjemmeside, Github m.fl.
 
 ## Når vi er uenige, konsulterer vi andre!
 
-Uenigheder opstår i alle sammenhænge, også i OS2. Det er vigtigt at uenigheder og uforenelige synspunkter i løsninger og andre sammenhænge løses konstruktivt og med hjælp af fællesskabet og de processer vi baserer os på i fællesskabet. Vi har forskellige governanceenheder i OS2, der kan hjælpe i forbindelse med løsning af konflikter: Bestyrelsen, sekretariatet og arbejdsgrupper.
+Uenigheder opstår i alle sammenhænge, også i OS2. Det er vigtigt at uenigheder og uforenelige synspunkter i løsninger og andre sammenhænge løses konstruktivt og med hjælp af fællesskabet og de processer vi baserer os på i fællesskabet. Vi har forskellige governanceenheder i OS2, der kan hjælpe i forbindelse med løsning af konflikter: Bestyrelsen, sekretariatet og arbejdsgrupper i form af produkternes styregruppe og koordinationsgruppe.
 
 Udvikling, forandring og alternative løsningsmodeller vil oftest være afhængige af en vis form for uenighed - dette perspektiv er væsentligt at holde sig for øje samarbejdet.
 
@@ -62,10 +62,10 @@ Enhver form for distribution ledsages af en angivelse af, at det baserer sig på
 Overvej at deltage i nogle af de organer, som OS2 består af :
 
 * Produkter - få indflydelse og merværdi i din organisation.
-* Projekter – det er de aktive og investerende, der bestemmer hvilke løsninger som skabes.
-* Grupper – hvis der mangler en relevant gruppe omkring et produkt, projekt eller andet specifikt fokusområde, så overvej at bidrage til dannelsen af denne. Hvis du vil have hjælp, vejledning, inspiration, så kontakt et af de eksisterende gruppemedlemmer eller OS2-sekretariatet.
+* Projekter – det er de aktive og investerende, der bestemmer hvilke løsninger som skabes. Husk at bak op så vi bliver ved med at se resultater.
+* Grupper – hvis der mangler en relevant gruppe omkring et produkt, projekt eller andet specifikt fokusområde, så overvej at bidrage til dannelsen af denne. Hvis du vil have hjælp, vejledning, inspiration, så kontakt et af de eksisterende gruppemedlemmer eller OS2-sekretariatet. Grupper kan f.eks. være styregruppe og koordinationsgruppe eller en faggruppe som nørder et specifikt emne.
 
-## OS2.eu
+## Forum på hjemmesiden OS2.eu og faq.os2.eu
 
 Du er velkommen som deltager i OS2-fællesskabet for at diskutere, anvende, påvirke, dele og deltage i ethvert område, der måtte have din interesse. Samtidig skal du være opmærksom på, at dine bidrag kan læses af alle. OS2.eu er et professionelt website og vi forventer, at brugere opfører sig ud fra denne forudsætning. En administrator vil efter bedste evne regulere websitet ud fra en vurdering af deltagernes hensigter, hvorfor der er meget vide ramme for kommunikationens indhold og form. I ekstreme tilfælde kan en brugers indhold blive slettet eller login blive spærret.
 
