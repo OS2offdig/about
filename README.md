@@ -17,7 +17,6 @@ Several Open Source products are organized in OS2. They all have in common that 
 Read more about projects and products on our website [os2.eu](https://os2.eu). (Disclaimer: information on the website is primarly in Danish).
 
 * For a list of all Products published and organised in OS2 - check out [https://os2.eu/products](https://os2.eu/products).
-* To check out ongoing projects – check out [https://os2.eu/projects](https://os2.eu/projects).
 
 > ℹ️ **What is a product and a project?**  
 > A **product** is a solution/codebase that is currently used in production environments.  
