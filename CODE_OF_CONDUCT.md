@@ -15,11 +15,11 @@ Code of Conduct (CoC) er et sæt anbefalinger for aktiv deltagelse i OS2-fælles
 Som deltager skal du have fokus på, at alle bidrag er værdifulde. Uden bidrag bliver der ingen udvikling, og udvikling af resultater er bærende for hele konceptet bag OS2. Derfor er enhver form for deltagelse velkommen. OS2 er et fællesskab som står oven på Open Source som samarbejdsform og metode. Deltagelse fordrer altså at man arbejdet åbent og transparent.
 
 
-## Vær omhyggelig!
+## Vær omhyggelig
 
 Resultater som offentliggøres i OS2 anvendes af andre. Tekniske og andre beslutninger har effekt på andre kollegaer, samarbejdspartnere og slutbrugere - hvilket du skal tage med i dine overvejelser, når du tager beslutninger. OS2 har mange brugere, og selvom det måske ikke umiddelbart er tydeligt i situationen, så vil bidrag til OS2 have en effekt på andres arbejde. Dette gælder f.eks. i forhold til ændringer i kode, infrastruktur, politikker, dokumentation og tilsvarende. Programændringer op til release kan påvirke andres arbejde.
 
-## Vær respektfuld!
+## Vær respektfuld
 
 I OS2 behandler vi hinanden og andre interessenter med respekt. Alle kan give bidrag af værdi for fællesskabet. Vi er måske ikke altid enige, men uenighed er ikke en undskyldning for dårlig opførsel eller dårlige manerer. Vi kan alle opleve frustrationer af og til, men lad ikke disse gå over i personlige angreb. Det er ekstremt vigtigt at have i erindring, at fællesskabet og dets medlemmer skal opleve sig velkomne, føle sig godt tilpas som bidragyder og i det hele taget opleve en positiv energi ved deltagelse. Det modsatte vil skabe dårlige resultater og lav produktivitet. Vi forventer at medlemmer af OS2-fællesskabet følger disse grundregler, når de deltager, udveksler og deler.
 
@@ -29,21 +29,21 @@ Samarbejdet omfatter organisationer, enkeltpersoner, arbejdsgrupper, produkter o
 
 Hvis man af den ene eller anden grund forlader en arbejdsgruppe, et produkt- eller projektsamarbejde er det vigtigt, at man efterlader sine ansvar, så andre kan overtage dem. Vær også omhyggelig med at informere interessenter i fællesskabet.
 
-## Vær åben!
+## Vær åben
 
 Vort arbejde skal udføres transparent, og det er af afgørende betydning, at omgivelserne kan få indsigt i og indflydelse på vort arbejde. Det er en afgørende succesparameter, at vi opfattes som troværdige, hvorfor vi skal være åbne om ændringer i roadmaps, planer og projektresultater. Vi ønsker at tiltrække andre troværdige deltagere, hvorfor vi selv skal skabe transparens. Derfor bruger vi i OS2 det fælles sekretariat og den fælles værktøjskasse bestående af bl.a. hjemmeside, Github m.fl.
 
-## Når vi er uenige, konsulterer vi andre!
+## Når vi er uenige, konsulterer vi andre
 
 Uenigheder opstår i alle sammenhænge, også i OS2. Det er vigtigt at uenigheder og uforenelige synspunkter i løsninger og andre sammenhænge løses konstruktivt og med hjælp af fællesskabet og de processer vi baserer os på i fællesskabet. Vi har forskellige governanceenheder i OS2, der kan hjælpe i forbindelse med løsning af konflikter: Bestyrelsen, sekretariatet og arbejdsgrupper i form af produkternes styregruppe og koordinationsgruppe.
 
 Udvikling, forandring og alternative løsningsmodeller vil oftest være afhængige af en vis form for uenighed - dette perspektiv er væsentligt at holde sig for øje samarbejdet.
 
-## Minimer usikkerhed og uvidenhed ved at bede om hjælp!
+## Minimer usikkerhed og uvidenhed ved at bede om hjælp
 
 Ingen ved alt og intet medlem forventes at vide alt. Derimod forventes det at du har et hav af spørgsmål og manglende viden ift. hvad du ønsker - så det er vigtigt at spørge og indhente information, hvilket minimerer mange problemer hen ad vejen. Dem der bliver opsøgt for viden og informationer bør være hjælpsomme og informative. Er man i tvivl om hvem man kan spørge, er man altid velkommen til at kontakte sekretariatet.
 
-## Hvad må man og skal man i øvrigt?
+## Hvad må man og hvad skal man i øvrigt?
 
 Dette MÅ du gøre med resultater skabt af OS2-fællesskabet:
 
@@ -65,9 +65,9 @@ Overvej at deltage i nogle af de organer, som OS2 består af :
 * Projekter – det er de aktive og investerende, der bestemmer hvilke løsninger som skabes. Husk at bak op så vi bliver ved med at se resultater.
 * Grupper – hvis der mangler en relevant gruppe omkring et produkt, projekt eller andet specifikt fokusområde, så overvej at bidrage til dannelsen af denne. Hvis du vil have hjælp, vejledning, inspiration, så kontakt et af de eksisterende gruppemedlemmer eller OS2-sekretariatet. Grupper kan f.eks. være styregruppe og koordinationsgruppe eller en faggruppe som nørder et specifikt emne.
 
-## Forum på hjemmesiden OS2.eu og faq.os2.eu
+## OS2 som platform
 
-Du er velkommen som deltager i OS2-fællesskabet for at diskutere, anvende, påvirke, dele og deltage i ethvert område, der måtte have din interesse. Samtidig skal du være opmærksom på, at dine bidrag kan læses af alle. OS2.eu er et professionelt website og vi forventer, at brugere opfører sig ud fra denne forudsætning. En administrator vil efter bedste evne regulere websitet ud fra en vurdering af deltagernes hensigter, hvorfor der er meget vide ramme for kommunikationens indhold og form. I ekstreme tilfælde kan en brugers indhold blive slettet eller login blive spærret.
+Du er velkommen som deltager i OS2-fællesskabet for at diskutere, anvende, påvirke, dele og deltage i ethvert område, der måtte have din interesse. Samtidig skal du være opmærksom på, at dine bidrag kan læses af alle. OS2 er et professionelt fælleskab og vi forventer, at brugere opfører sig ud fra denne forudsætning. I fællesskabet bidrager alle efter bedste evne til at regulere ud fra en vurdering af deltagernes hensigter, hvorfor der er meget vide ramme for indhold og form. I ekstreme tilfælde kan en brugers bidrag blive slettet eller adgang til fællesskabet blive spærret. Øverste myndighed i OS2 er bestyrelsen og sekretariatet.
 
 ## I tillæg hertil vil vi opfordre dig til at følge disse guidelines:
 
