@@ -12,30 +12,30 @@
 #   code: a list of source code organizations/groups
 
 https://os2.eu:
-	name: OS2 – Public Digitalization Network
-	country: DK
-	description:
-		en: OS2 is an organisation of public bodies in Denmark where we - together - develop, mature, and maintain public code.
-	email: os2@os2.eu
-	created: 2012-04-24
-	floss_policy: https://github.com/OS2offdig/about
-	code:
-		- https://github.com/OS2agora
-		- https://github.com/OS2autoproces
-		- https://github.com/OS2borgerPC
-		- https://github.com/OS2compliance
-		- https://github.com/os2display
-		- https://github.com/OS2faktor
-		- https://github.com/OS2fleetoptimiser
-		- https://github.com/OS2Forms
-		- https://github.com/OS2iot
-		- https://github.com/OS2korrespondance
-		- https://github.com/OS2kravmotor
-		- https://github.com/OS2mo
-		- https://github.com/OS2nectar
-		- https://github.com/OS2rollekatalog
-		- https://github.com/OS2skoledata
-		- https://github.com/OS2sofd
-		- https://github.com/os2ulf
-		- https://github.com/OS2Valghalla
-		- https://github.com/Skadesokonomi
+    name: OS2 – Public Digitalization Network
+    country: DK
+    description:
+        en: OS2 is an organisation of public bodies in Denmark where we - together - develop, mature, and maintain public code.
+    email: os2@os2.eu
+    created: 2012-04-24
+    floss_policy: https://github.com/OS2offdig/about
+    code:
+        - https://github.com/OS2agora
+        - https://github.com/OS2autoproces
+        - https://github.com/OS2borgerPC
+        - https://github.com/OS2compliance
+        - https://github.com/os2display
+        - https://github.com/OS2faktor
+        - https://github.com/OS2fleetoptimiser
+        - https://github.com/OS2Forms
+        - https://github.com/OS2iot
+        - https://github.com/OS2korrespondance
+        - https://github.com/OS2kravmotor
+        - https://github.com/OS2mo
+        - https://github.com/OS2nectar
+        - https://github.com/OS2rollekatalog
+        - https://github.com/OS2skoledata
+        - https://github.com/OS2sofd
+        - https://github.com/os2ulf
+        - https://github.com/OS2Valghalla
+        - https://github.com/Skadesokonomi
