@@ -94,6 +94,9 @@ Udelukkelse af et medlem eller en repræsentant kan besluttes i bestyrelsen. Bes
 
 Kontingent opkræves årsvis og fastsættes på generalforsamlingen, med gyldighed fra næste kalenderår. Ved indmeldelse efter 1. juli betales der et kontingent for et halvt år. Kontingentet kan kun afviges efter aftale med bestyrelsen.
 
+**Stk. 1.1**
+
+
 **Stk. 2**
 
 Sekretariatsbistand samt de projekter foreningen er ansvarlig for afregnes selvstændigt. Kommunernes på forhånd aftalte og faktisk forbrugte timeforbrug i foreningen honoreres med en timesats, der tilstræbt dækker de faktiske omkostninger se uddybning i bilag 1 [(appendix-1_OS2_bylaws.pdf)](appendix-1_OS2_bylaws.pdf) til vedtægterne. Alene differencen mellem kommunerne afregnes, dvs. at kommuner, der har forbrugt færrest timer, afregner til de kommuner, der har lagt flest timer. Afregningen sker én gang årligt samtidig med regnskabet.
