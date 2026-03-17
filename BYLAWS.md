@@ -96,6 +96,10 @@ Kontingent opkræves årsvis og fastsættes på generalforsamlingen, med gyldigh
 
 **Stk. 1.1**
 
+Kontingentet reguleres årligt i overensstemmelse med KL’s offentliggjorte løn- og prisskøn. Reguleringen foretages efter følgende beregningsmetode:  
+_(Kontingent × nyt indeks) / gammelt indeks._  
+
+Bestyrelsen er ansvarlig for at fastsætte og offentliggøre det gældende kontingentbeløb på baggrund af denne regulering.
 
 **Stk. 2**
 
